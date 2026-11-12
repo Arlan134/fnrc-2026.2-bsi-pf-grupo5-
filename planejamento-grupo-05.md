@@ -1,4 +1,4 @@
-# 01 — Planejamento (Grupo 5)
+# Planejamento (Grupo 5)
 
 Projeto Final — Fundamentos de Redes de Computadores (BSI 2026.02)
 
