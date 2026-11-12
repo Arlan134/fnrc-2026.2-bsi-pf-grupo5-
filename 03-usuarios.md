@@ -30,7 +30,7 @@ Saída obtida:
 ## 3. Verificação
 
 ```bash
-getent passwd sarah.santos <usuario2> <usuario3> <usuario4>
+getent passwd sarah.amorim pedro.rocha thiago.luiz arlan.montilares
 ls -l /home
 ```
 
