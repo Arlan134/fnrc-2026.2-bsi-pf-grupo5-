@@ -99,7 +99,7 @@ A rede não tem gateway, por isso não há `routes` nem `nameservers`.
 Criados da mesma forma nas 8 VMs:
 
 ```bash
-for u in sarah.santos <usuario2> <usuario3> <usuario4>; do
+for u in sarah.amorim pedro.rocha thiago.luiz arlan.montilares; do
   sudo useradd -m -s /bin/bash "$u"
   sudo passwd "$u"
 done
