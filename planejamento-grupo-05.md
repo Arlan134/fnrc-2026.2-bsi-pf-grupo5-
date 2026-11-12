@@ -1,7 +1,5 @@
 # Planejamento (Grupo 5)
 
-Projeto Final — Fundamentos de Redes de Computadores (BSI 2026.02)
-
 **INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE ALAGOAS (IFAL) — Campus Maceió**
 
 - **Curso:** Bacharelado em Sistemas de Informação (BSI)
