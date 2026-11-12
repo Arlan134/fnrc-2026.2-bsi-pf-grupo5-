@@ -11,7 +11,7 @@ Rede /28 com 8 máquinas virtuais Ubuntu Server distribuídas em 4 PCs do labora
 | Sarah Amorim dos Santos | sarah.amorim |
 | Pedro Henrique Cavalcante Rocha | pedro.rocha |
 | Arlan Montilares de Oliveira Silva | arlan.montilares |
-| Thiago Luiz | thiago.luiz |
+| Thiago Luiz da Silva | thiago.luiz |
 
 ### Dados da rede
 
