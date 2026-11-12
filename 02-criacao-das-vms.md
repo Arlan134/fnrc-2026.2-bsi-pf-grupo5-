@@ -47,10 +47,11 @@ sudo apt install -y net-tools traceroute
 ```
 
 Saída obtida:
-
+<!--
 ```text
 <cole aqui a saída>
 ```
+-->
 
 <!--![Atualização e instalação dos utilitários](imagens/g5-pc1-vm1_apt.png)-->
 
