@@ -60,9 +60,7 @@ ls -l validacao-pf.sh
 
 Saída obtida:
 
-```text
-<cole aqui a saída>
-```
+<!---->
 
 ## 6. Redução de memória
 
