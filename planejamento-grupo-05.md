@@ -15,8 +15,8 @@
 |:--|:--|:--|
 | Sarah Amorim dos Santos | sarah.santos | 1 |
 | Pedro Henrique Cavalcante Rocha | pedro.rocha> | 2 |
-| Thiago Luiz | thiago.luiz> | 3 |
-| Arlan Montilares | arlan.montilares> | 4 |
+| Thiago Luiz | thiago.luiz | 3 |
+| Arlan Montilares | arlan.montilares | 4 |
 
 Cada VM também tem o usuário `administrador`.
 
